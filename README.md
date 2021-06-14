@@ -1,2 +1,2 @@
 # budget-bot
-bot for tracking expenses
+Telegram bot for tracking expenses
